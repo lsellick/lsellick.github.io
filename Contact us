@@ -1,0 +1,14 @@
+<div id="Contact" data-role="page">
+  <div data-role="header" data-position="fixed">
+    <h3>Contact us</h3>
+  </div>
+  <div role="main" class="ui-content">
+    <h3 is="gk-text">You can contact us by either:</h3>
+    <h4 is="gk-text">Calling us at (03) 5389 4893</h4>
+    <h4 is="gk-text">Coming to our store at 21 High Street, Burwood, 3125.</h4>
+    <h3 is="gk-text">Opening hours:</h3>
+    <h5 is="gk-text">Monday - Friday: 12pm-10pm</h5>
+    <h5 is="gk-text">Saturday: 12pm-12am</h5>
+    <h5 is="gk-text">Sunday: 2pm-10pm</h5>
+  </div>
+</div>
