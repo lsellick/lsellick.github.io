@@ -1,0 +1,20 @@
+<div id="Feedback" data-role="page">
+  <div data-role="header" data-position="fixed">
+    <h3>Our menu</h3>
+  </div>
+  <div role="main" class="ui-content">
+    <div class="ui-field-contain">
+      <label for="gk-86MsEP">Customer Name:</label>
+      <input name id="gk-86MsEP" type="text">
+    </div>
+    <div class="ui-field-contain">
+      <label for="gk-869DQx">Contact Information:</label>
+      <input name id="gk-869DQx" type="text">
+    </div>
+    <div class="ui-field-contain">
+      <label for="gk-86c4of">Feedback:</label>
+      <input name id="gk-86c4of" type="text">
+    </div>
+    <a href="#home" class="ui-btn">Submit</a>
+  </div>
+</div>
